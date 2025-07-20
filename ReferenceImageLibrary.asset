@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4830683254042297207
+  m_GuidHigh: 13003424844268092811
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5556426861931612326
+      m_GuidHigh: 4642909389207112624
+    m_SerializedTextureGuid:
+      m_GuidLow: 11882580759193734684
+      m_GuidHigh: 11450566639281004056
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mars
+    m_Texture: {fileID: 2800000, guid: 6ea24e1c683ea4e7185e48d3b095e89e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4930800692227727120
+      m_GuidHigh: 3383155137028652984
+    m_SerializedTextureGuid:
+      m_GuidLow: 17611147234920366012
+      m_GuidHigh: 10115083864738196521
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: earth
+    m_Texture: {fileID: 2800000, guid: 3087ffbc5d1af467296c01d72eff5f8c, type: 3}
